@@ -1,6 +1,6 @@
-def cheese_and_crackers(chese_count, boxes_of_crackers):
+def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "You have %d cheeses!" % cheese_count
-	print "You have a%d boxes of crackers!" % boxes_of_crackers
+	print "You have a %d boxes of crackers!" % boxes_of_crackers
 	print "Man that's enought for a party!"
 	print "Get a blanket.\n"
 
